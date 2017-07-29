@@ -1,4 +1,10 @@
 
+1.1.2 / 2017-07-29
+==================
+
+**fixes**
+  * [[`1e6ba60`](http://github.com/dead-horse/test-publish-command/commit/1e6ba602be7818ba3ec7a64b6a296a58cad55be2)] - fix: fix hello (dead-horse <<dead_horse@qq.com>>)
+
 1.1.1 / 2017-07-29
 ==================
 
