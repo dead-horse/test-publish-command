@@ -1,4 +1,10 @@
 
+1.2.0 / 2017-07-30
+==================
+
+**features**
+  * [[`53e43a2`](http://github.com/dead-horse/test-publish-command/commit/53e43a2166d2377d2a48504e944ed72bbbc42e86)] - feat: update hello (dead-horse <<dead_horse@qq.com>>)
+
 1.1.2 / 2017-07-29
 ==================
 
